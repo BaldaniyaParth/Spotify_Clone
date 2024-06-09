@@ -23,3 +23,12 @@ This clone project includes:
 - Responsive design for different screen sizes.
 - Styled cards to display music content.
 - A footer section with a decorative line.
+
+## Installation
+To run this project locally, simply clone the repository to your local machine:
+git clone https://github.com/BaldaniyaParth/Spotify_Clone.git
+
+Then, open the index.html file in your preferred web browser to view the landing page.
+
+## Contributing
+Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
